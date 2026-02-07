@@ -1,26 +1,76 @@
-Truecaller Lite - Caller ID & Spam Blocker
-Truecaller Lite is a lightweight model of Truecaller, designed to provide essential caller identification and spam blocking features with a focus on efficiency and simplicity. This app leverages Truecaller's API to deliver accurate caller information and protect you from unwanted spam calls.
+📞 Truecaller Lite – Caller ID & Spam Detection App
 
-Features
-Block Spam Calls Automatically
-Protect yourself from unwanted and annoying spam calls by automatically blocking them. Our app identifies potential spam and telemarketing calls to keep your phone line clean.
+Truecaller Lite is a high-performance caller identification and spam detection mobile application built to deliver essential call-screening features with a focus on speed, efficiency, and reliability. Inspired by modern caller ID platforms, the app helps users identify unknown numbers, avoid spam calls, and make safer communication decisions in real time.
 
-Phone Number Lookup
-Instantly look up the name and location of incoming callers. Our app uses Truecaller’s API to provide real-time information about who’s calling, so you can decide whether to answer the call.
+Designed with a lightweight architecture, the application ensures minimal resource consumption while maintaining accurate caller insights and responsive performance.
 
-Installation
-To install the app, download the APK from the Releases page.
+🚀 Key Highlights
 
-How to Use
-Download and Install the app from the Releases page.
-Enter Your Phone Number: The app requires your phone number for signup with the Truecaller API server.
-Verify Your Phone Number: An OTP will be sent to your number. Enter the OTP in the app to verify your identity.
-Enable Spam Blocking: Turn on spam blocking to automatically block unwanted calls.
-Use the Number Lookup: Receive a call, and the app will display the caller's name and location.
-Screenshots
-Screenshot 1 Screenshot 2
+Real-time caller identification
 
-Screenshot 3 Screenshot 4
+Intelligent spam detection and blocking
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Lightweight and optimized mobile architecture
+
+Secure phone number authentication with OTP
+
+Fast number lookup with reliable data handling
+
+✨ Features
+🛡️ Automatic Spam Blocking
+
+Detects suspicious and telemarketing numbers and prevents them from disturbing users, improving call safety and reducing interruptions.
+
+🔎 Phone Number Lookup
+
+Instantly displays caller details such as name and region, helping users decide whether to answer unknown calls.
+
+⚡ Lightweight Performance
+
+Optimized to consume fewer system resources while delivering fast and consistent results.
+
+🔐 Secure Authentication
+
+Phone number verification via OTP ensures trusted onboarding and improves platform security.
+
+🛠️ Tech Stack
+
+Frontend: React Native
+
+Backend: Node.js
+
+Database: MongoDB
+
+Authentication: OTP Verification
+
+Architecture: Lightweight, scalable mobile design
+
+📲 Installation
+
+Download the latest APK from the Releases section and install it on your Android device.
+
+▶️ How to Use
+
+Install the application from the Releases page.
+
+Sign up using your phone number.
+
+Verify your account via OTP.
+
+Enable spam protection.
+
+Receive caller insights instantly during incoming calls.
+
+📊 What This Project Demonstrates
+
+✅ Mobile app development expertise
+✅ Real-time data handling
+✅ Secure authentication workflows
+✅ Performance-focused architecture
+✅ Scalable backend integration
+
+👉 This is not just a basic mobile app — it demonstrates practical skills in building production-ready communication tools.
+
+📄 License
+
+This project is licensed under the MIT License — see the LICENSE file for details..
